@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CandlerView.iml" filepath="$PROJECT_DIR$/CandlerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalenderListView.iml" filepath="$PROJECT_DIR$/CalenderListView.iml" />
+      <module fileurl="file://D:\demo_kotlin\CandlerListView\CalenderListView\CandlerView.iml" filepath="D:\demo_kotlin\CandlerListView\CalenderListView\CandlerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\demo_kotlin\CandlerListView\CalenderListView\app\app.iml" filepath="D:\demo_kotlin\CandlerListView\CalenderListView\app\app.iml" />
     </modules>
   </component>
 </project>

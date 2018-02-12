@@ -22,9 +22,7 @@ class CalenderListView @JvmOverloads constructor(context: Context, attrs: Attrib
 }
 
 class CalenderAdapter : RecyclerView.Adapter<VH>(){
-    override fun onCreateViewHolder(parent: ViewGroup?, viewType: Int): VH {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
+    override fun onCreateViewHolder(parent: ViewGroup?, viewType: Int): VH = VH(MonthView(parent!!.context))
 
     override fun getItemCount(): Int {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
